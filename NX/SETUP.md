@@ -22,3 +22,5 @@
 2. Switch to the Nintendo Switch build target and click on the toggle that says "Create NSP ROM file".
 3. Try building the test project! If it works it should show you the nsp that it makes.
 4. Test the nsp on any emulator of your choice!
+
+Lets go to [What you need to know](WYNTK.md) next!
