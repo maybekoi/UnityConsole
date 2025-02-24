@@ -15,6 +15,7 @@
 1. Install Unity Hub and login into your Unity account.
 2. Install Unity 2020.1.0b4
 3. Go back to the "Switch" folder that you downloaded from the torrent, go into Extra (Switch Related)/Unity and you should see "UnitySetup-Nintendo-Switch-Support-for-Editor-2020.1.0b4.exe" double click it and install it.
+4. Finally run UniHacker and patch Unity Hub.
 
 ## Making sure EVERYTHING works
 
