@@ -8,4 +8,4 @@
 
 That should be all (I think).
 
-Let's move onto the [SETUP](SETUP.md)
+Let's move onto the [Setup](SETUP.md).
