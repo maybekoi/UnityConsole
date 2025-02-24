@@ -6,9 +6,9 @@
 ![stuff](images/torrent.png)
 3. When it's done downloading go ahead and extract "NintendoSDK+NWv9.2.0.7z" to a safe place (I have mine in C:\Dev\SDKS\NX).
 4. Open environment variables, and add "NINTENDO_SDK_ROOT" to the system variables with the path to the NintendoSDK folder like this:
-5. ![environment](images/environmentvariables.png)
-6. Open command prompt and cd into PATH_TO_YOUR_NINTENDO_SDK_FOLDER (mine is C:\Dev\SDKS\NX\NintendoSDK), then cd into Installers/TargetManager, run Install.bat and let it finish. then run "cd ..", cd into the VSI folder and run Install.bat and let it finish, then close command prompt.
-7. Then go ahead and go to Tools/CommandLineTools/AuthoringTool and Rename AuthoringTool.exe to AuthoringToolO.exe (O not zero), then extract prodencrypt-Unity.zip to the folder and reboot your computer.
+![environment](images/environmentvariables.png)
+5. Open command prompt and cd into PATH_TO_YOUR_NINTENDO_SDK_FOLDER (mine is C:\Dev\SDKS\NX\NintendoSDK), then cd into Installers/TargetManager, run Install.bat and let it finish. then run "cd ..", cd into the VSI folder and run Install.bat and let it finish, then close command prompt.
+6. Then go ahead and go to Tools/CommandLineTools/AuthoringTool and Rename AuthoringTool.exe to AuthoringToolO.exe (O not zero), then extract prodencrypt-Unity.zip to the folder and reboot your computer.
 
 ## UNITY INSTALLATION
 
