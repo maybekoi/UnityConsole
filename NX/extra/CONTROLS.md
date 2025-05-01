@@ -4,10 +4,10 @@
 
 * But if for some reason you'd rather code it in instead of using the input manager here's the controls:
 
-* A Button - Input.GetKey(KeyCode.Joystick1Button0)
-* B Button - Input.GetKey(KeyCode.Joystick1Button1)
-* X Button - Input.GetKey(KeyCode.Joystick1Button2)
-* Y Button - Input.GetKey(KeyCode.Joystick1Button3)
+* A Button - Input.GetKey(KeyCode.Joystick1Button1)
+* B Button - Input.GetKey(KeyCode.Joystick1Button0)
+* X Button - Input.GetKey(KeyCode.Joystick1Button3)
+* Y Button - Input.GetKey(KeyCode.Joystick1Button2)
 * L Trigger - Input.GetKey(KeyCode.Joystick1Button4)
 * R Trigger - Input.GetKey(KeyCode.Joystick1Button5)
 * Minus Button - Input.GetKey(KeyCode.Joystick1Button6)
