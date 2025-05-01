@@ -22,3 +22,5 @@
 * Right Joystick Vertical - Input.GetAxis("Mouse Y")
 * Left Joystick Horizontal - Input.GetAxisRaw("Horizontal")
 * Left Joystick Vertical - Input.GetAxisRaw("Vertical")
+* Left Joystick Button - Input.GetKey(KeyCode.Joystick1Button8)
+* Right Joystick Button - Input.GetKey(KeyCode.Joystick1Button9)
