@@ -11,3 +11,8 @@
 ### Templates
 
 * There will eventually be template projects in the Templates folder.
+
+
+## Unity 2021+
+
+* If you're on Unity 2021+ you'll need Repack4Retail from https://github.com/maybekoi/SwitchTools
